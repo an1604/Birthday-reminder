@@ -1,0 +1,17 @@
+
+button{
+
+}
+.container {
+  width: 90vw;
+  margin: 5rem 0;
+  max-width: var(--fixed-width);
+  background: var(--clr-white);
+  border-radius: var(--radius);
+  padding: 1.5rem 2rem;
+  box-shadow: var(--dark-shadow);
+
+}
+section{
+
+}
